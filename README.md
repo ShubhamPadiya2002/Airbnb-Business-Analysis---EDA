@@ -5,10 +5,21 @@
 </p>
 
 
-IMDb (Internet Movie Database) is a popular online database of information related to films, television programs,                                                                                      
-and video games, including cast, production crew, plot summaries, trivia, and user ratings.
+Airbnb, Inc. is an American company operating an online marketplace for short- and long-term homestays and experiences. The company acts as a broker and charges a
+commission from each booking. **The company was founded in 2008 by Brian Chesky, Nathan Blecharczyk, and Joe Gebbia.** The idea originated when Chesky and Gebbia,
+struggling to pay rent, rented out air mattresses in their San Francisco apartment, which evolved into **"Air Bed & Breakfast."** Airbnb has built a vast global community, operating in
+over 220 countries with millions of listings. The company went public in December 2020, marking a significant milestone. Today, under CEO Brian Chesky's leadership, Airbnb
+continues to innovate, adapting to changing travel trends and fostering cultural exchange through personalized travel experiences
                                                                                                  
-**How IMDb Platform Works ?** 
+**Let's understand the Business Model** 
+
+<p align = "center">
+    <img src="https://github.com/ShubhamPadiya2002/Airbnb-Business-Analysis---EDA/blob/main/Business%20Model%20Picture.png" alt="Example IMG" width="800" height="300">
+</p>
+
+
+
+
 
 ***1.User Ratings --*** IMDb ratings are primarily based on the ratings submitted by registered users of the IMDb website or app. Users can rate movies on a scale from 1 to 10, with 10 being the highest rating. These ratings are aggregated to calculate the overall rating for each movie.                                                                                                                                               
                                                                                                                                                                                                                   ***2.Weighted Average --*** IMDb uses a weighted average formula to calculate the overall rating for a movie. The formula takes into account factors such as the number of ratings received and the distribution of those ratings.                                                                                                                                                                                           
