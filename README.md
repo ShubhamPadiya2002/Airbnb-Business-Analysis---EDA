@@ -1,7 +1,7 @@
-# IMDb - Data Analysis
+# Airbnb Business EDA
 
 <p align = "center">
-    <img src="https://media.giphy.com/media/l0HU2lyoefjGXFIwE/giphy.gif" alt="Example GIF" width="700" height="300">
+    <img src="https://github.com/ShubhamPadiya2002/Airbnb-Business-Analysis---EDA/blob/main/airbnb43.gif" alt="Example GIF" width="700" height="300">
 </p>
 
 
