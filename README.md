@@ -99,14 +99,17 @@ we will solve various business problem statements and enhance business strategie
 ## Business Conclusion
 
 • With the help of price analysis, it can be highly beneficial for Airbnb’s business. Airbnb understanding common price ranges to guide hosts in setting up their listing
-properties price to stand out in competitive market.                                                                                                                                                         
+properties price to stand out in competitive market. 
+
 • Through this analysis, Airbnb examine where the no. of listing properties are high which help in decisions about where to invest in new features or services based on the
-popularity of neighborhoods.                                                                                                                                                                                   
+popularity of neighborhoods.      
+
 • By this analysis, Airbnb recognizing top hosts by providing incentives, or loyalty programs to maintain and enhance their engagement with the platform.
 
 • This analysis helps Airbnb to identify the best location for travelers based on reviews and price which helps Airbnb in marketing campaigns to attract travelers who
 prioritize staying in well-reviewed places & also marketing promotions for budget-conscious travelers, showcasing locations where they can find the best value for
-money.                                                                                                                                                                                                  
+money.                 
+
 • Through this analysis, Airbnb understands the average price differences between room types which helps Airbnb business to optimize pricing strategies like - cities Brooklyn
 and Manhattan where there’s a significant price gap, Airbnb could encourage hosts to offer competitive pricing for private and shared rooms to attract budget-conscious travelers.
 
@@ -114,7 +117,8 @@ and Manhattan where there’s a significant price gap, Airbnb could encourage ho
 like - Offer incentives to hosts in the Bronx for listing shared rooms and to Manhattan hosts for listing entire homes/apartments.
 
 • This analysis helps airbnb business understanding the diversity of price range which helps in Targeted Marketing like Manhattan offers a wide range of pricing options ,this
-insights help to build marketing strategies to attract visitors with varying budgets.                                                                                                                               
+insights help to build marketing strategies to attract visitors with varying budgets.      
+
 • This analysis help airbnb business to understand the popularlity of each room_type which helps business to make decisions regarding financial investment like airbnb
 support host for listing private room_type in queens city financially.
 
