@@ -87,13 +87,13 @@ we will solve various business problem statements and enhance business strategie
 
 ![Example Image](https://github.com/ShubhamPadiya2002/Airbnb-Business-Analysis---EDA/blob/main/Screenshot%202024-05-29%20150245.png)
 
+![Example Image](https://github.com/ShubhamPadiya2002/Airbnb-Business-Analysis---EDA/blob/main/Screenshot%202024-05-29%20150412.png)
 
+![Example Image](https://github.com/ShubhamPadiya2002/Airbnb-Business-Analysis---EDA/blob/main/Screenshot%202024-05-29%20150614.png)
 
+![Example Image](https://github.com/ShubhamPadiya2002/Airbnb-Business-Analysis---EDA/blob/main/Screenshot%202024-05-29%20150649.png)
 
-
-
-
-
+![Example Image](https://github.com/ShubhamPadiya2002/Airbnb-Business-Analysis---EDA/blob/main/Screenshot%202024-05-29%20150721.png)
 
 
 ## Business Conclusion
