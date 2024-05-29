@@ -85,7 +85,7 @@ we will solve various business problem statements and enhance business strategie
 • Investigate the relationship between user reviews and room types across different cities.   
 
 
-![Example Image](https://github.com/ShubhamPadiya2002/Excel-Project/blob/main/Screenshot%202024-04-18%20140225.jpg)
+![Example Image](https://github.com/ShubhamPadiya2002/Airbnb-Business-Analysis---EDA/blob/main/Screenshot%202024-05-29%20150245.png)
 
 
 
