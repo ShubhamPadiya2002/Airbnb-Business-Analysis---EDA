@@ -25,7 +25,7 @@ offers various value-added services to hosts, such as professional photography a
 
 ## Project Summary
 ❑ **Purpose of the Project** -- The purpose of this project is to conduct **comprehensive data analysis** on Airbnb with the aim of extracting meaningful insights and identifying trends
-or patterns.By performing end-to-end analysis, including some advanced analytics techniques such as IQR techniques, exploratory data analysis (EDA).Wtih the help of this project,
+or patterns.By performing end-to-end analysis, including some advanced analytics techniques such as **IQR techniques**, exploratory data analysis (EDA).Wtih the help of this project,
 we will solve various business problem statements and enhance business strategies & drive overall business growth in the Airbnb ecosystem.                                                                                                                                                        
 
 ❑ **Tools & Libraries** – Advance Excel , Pivot table .
@@ -74,23 +74,40 @@ we will solve various business problem statements and enhance business strategie
 
 ![Example Image](https://github.com/ShubhamPadiya2002/Excel-Project/blob/main/Screenshot%202024-04-18%20140225.jpg)
 
-## Limitation of the Project
+## BUSINESS PROBLEM STATEMENT
 
-• **Data Scope**        - The analysis might be limited to the data available in the IMDb database, which may not cover all movies or have complete information for each title.                          
-• **Limitations Depth** - The project uses tools like Excel and pivot tables, which are powerful but may not offer the same depth of analysis as more advanced statistical software.                       
-• **Timeframe**         - The project seems to cover data up to a certain point, which means recent movies or trends might not be included.                                                  
-• **Data Accuracy**     - The accuracy of the data could be a limitation. Since the data is user-generated, there may be errors or inaccuracies that could affect the results of the analysis. Users may submit 
-                       incorrect information or make subjective judgments about movie ratings, which could introduce biases into the analysis.
+• Analyze the distribution of prices across the dataset to identify common price ranges.
+• Find out Top 10 Neighbourhood based on listing properties to identify the neighborhoods with the highest number of listed properties to understand the popularity and demand in different areas.
+• Find out Top 10 host based on listing properties to determine the hosts who have the highest number of listed properties to recognize key contributors to the platform.
+• Find the best location for travelers to identify the ideal locations for travelers based on factors such as average price and user reviews. 
+• Analyze the price trends of different room types (e.g., entire home/apt, private room, shared room) across various cities.
+• Identify any unique characteristics or preferences in each city that influence the distribution of room types.
+• Determine the city with the highest average price and investigate the reason behind to its pricing. 
+• Examine the relationship between availability of listings and different cities.
+• What is the relationship of diversity of price in each city.
+• Investigate the relationship between user reviews and room types across different cities.
 
-## Conclusion
+## BUSINESS CONCLUSION
 
-• Through this analysis, We have build good theoretical knowledge about movies and their terms like what is the difference between genre & rating, etc.                                                         
-• With the help of this analysis , We find insights related to some important movies terms like contribution of genre(%) ,gross revenue ,budget ,director, actors.                                                
-• In this analysis, we also discover some time patterns like which month movies release the most. This analysis help director to decide release month.                                                         
-• Through this analysis, We understand the power of pivot table that how pivot table solve complex questions easily.                                                                                
-• Through cost analysis, We understand the very important concept of profit margin & cost. As a producer , we must should focus on cost or budget of a movie because profit margin is inversely proportional to Cost.                                                                                                                                      
-• With the help of analysis of time duration, the director decide how many mins of movie should he make for get best IMDb range.                                                                 
+1. With the help of price analysis, it can be highly beneficial for Airbnb’s business. Airbnb understanding common price ranges to guide hosts in setting up their listing
+properties price to stand out in competitive market.
+2. Through this analysis, Airbnb examine where the no. of listing properties are high which help in decisions about where to invest in new features or services based on the
+popularity of neighborhoods.
+3. By this analysis, Airbnb recognizing top hosts by providing incentives, or loyalty programs to maintain and enhance their engagement with the platform.
 
+4. This analysis helps Airbnb to identify the best location for travelers based on reviews and price which helps Airbnb in marketing campaigns to attract travelers who
+prioritize staying in well-reviewed places & also marketing promotions for budget-conscious travelers, showcasing locations where they can find the best value for
+money.
+5. Through this analysis, Airbnb understands the average price differences between room types which helps Airbnb business to optimize pricing strategies like - cities Brooklyn
+and Manhattan where there’s a significant price gap, Airbnb could encourage hosts to offer competitive pricing for private and shared rooms to attract budget-conscious travelers.
+
+7. With the help of analysis of market demand, Airbnb understands the trend or pattern of demand (%) of room_type which helps business to make demand & supply strategies
+like - Offer incentives to hosts in the Bronx for listing shared rooms and to Manhattan hosts for listing entire homes/apartments.
+
+8. This analysis helps airbnb business understanding the diversity of price range which helps in Targeted Marketing like Manhattan offers a wide range of pricing options ,this
+insights help to build marketing strategies to attract visitors with varying budgets.
+9. This analysis help airbnb business to understand the popularlity of each room_type which helps business to make decisions regarding financial investment like airbnb
+support host for listing private room_type in queens city financially.
 
 
 
