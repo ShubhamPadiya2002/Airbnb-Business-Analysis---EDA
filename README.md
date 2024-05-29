@@ -14,54 +14,61 @@ continues to innovate, adapting to changing travel trends and fostering cultural
 **Let's understand the Business Model** 
 
 <p align = "center">
-    <img src="https://github.com/ShubhamPadiya2002/Airbnb-Business-Analysis---EDA/blob/main/Business%20Model%20Picture.png" alt="Example IMG" width="800" height="300">
+    <img src="https://github.com/ShubhamPadiya2002/Airbnb-Business-Analysis---EDA/blob/main/Business%20Model%20Picture.png" alt="Example IMG" width="800" height="400">
 </p>
 
-
-
-
-
-***1.User Ratings --*** IMDb ratings are primarily based on the ratings submitted by registered users of the IMDb website or app. Users can rate movies on a scale from 1 to 10, with 10 being the highest rating. These ratings are aggregated to calculate the overall rating for each movie.                                                                                                                                               
-                                                                                                                                                                                                                  ***2.Weighted Average --*** IMDb uses a weighted average formula to calculate the overall rating for a movie. The formula takes into account factors such as the number of ratings received and the distribution of those ratings.                                                                                                                                                                                           
-***3.Ratings Distribution --*** IMDb considers the distribution of ratings when calculating the overall rating for a movie. Movies with a more uniform distribution of ratings may receive a higher overall rating compared to movies with a more polarized distribution.                                                                                                                                 
-***4.User Reviews --*** In addition to numerical ratings, IMDb also allows users to submit written reviews and comments for movies. These user reviews can provide additional context and insight into the quality of a movie.                                                                                                                                                                                        
-***5.Top Rated Lists --*** IMDb also provides curated lists of top-rated movies based on user ratings.These lists highlight the highest-rated movies across various genres, decades, and other categories.                 
+Airbnb’s revenue model primarily revolves a **two-sided marketplace** around charging service fees to both hosts and guests for facilitating bookings through its platform. Airbnb
+generates revenue through service fees charged to both hosts and guests for each booking made on its platform. For guests, the service fee typically ranges from **6% to 12%** of the
+booking subtotal, while hosts are charged around **3%** of the subtotal. This fee structure allows Airbnb to earn a commission on every transaction. In addition to these fees, Airbnb
+offers various value-added services to hosts, such as professional photography and property management services, which also contribute to its revenue.
+                 
 
 ## Project Summary
-❑ **Purpose of the Project** -- Firstly , find the meaningful insights from the data. Secondly , understand 
-the Trend or pattern between different types of variable in a dataset. My main purpose is to 
-visualize the data to uncover trends and relationships which would have been difficult to identify 
-from raw data alone.                                                                                                                                                        
+❑ **Purpose of the Project** -- The purpose of this project is to conduct **comprehensive data analysis** on Airbnb with the aim of extracting meaningful insights and identifying trends
+or patterns.By performing end-to-end analysis, including some advanced analytics techniques such as IQR techniques, exploratory data analysis (EDA).Wtih the help of this project,
+we will solve various business problem statements and enhance business strategies & drive overall business growth in the Airbnb ecosystem.                                                                                                                                                        
 
-❑ **Tools & Techniques** – Advance Excel , Pivot table .
+❑ **Tools & Libraries** – Advance Excel , Pivot table .
 
 ❑ **Content**  
 
 <table>
   <tr>
-    <td><b>Overview of Data</b></td>
-    <td>Understand the theoretical part of data for strong foundation.</td>
+    <td><b>Overview of Airbnb</b></td>
+    <td>An introduction to the Airbnb platform, and its business model.</td>
   </tr>
   <tr>
-    <td><b>Limitation of Project</b></td>
-    <td>Understand some limitation of the project.</td>
+    <td><b>Description of Dataset</b></td>
+    <td>A detailed explanation of the variables in a dataset.</td>
   </tr>
   <tr>
-    <td><b>Investigate About Data</b></td>
-    <td>Find Basic insights about data to getting comfortable with dataset.</td>
+    <td><b>QnA</b></td>
+    <td>Some question and Answer related to Airbnb to getting comfortable with data.</td>
   </tr>
   <tr>
-    <td><b>Find Complex Answers</b></td>
-    <td>Showcase the power of pivot table to solve complex answers.</td>
+    <td><b>Business Problem State</b></td>
+    <td>Some problem statement related to Airbnb to find data driven insights.
+</td>
   </tr>
   <tr>
-    <td><b>Torture the Data</b></td>
-    <td>Find Trends or pattern with the help of advance charts like Scatter plot.</td>
+    <td><b>Steps of EDA</b></td>
+    <td> Perform some steps of Exploratory data analysis such as data cleaning, data mining.
+</td>
   </tr>
   <tr>
-    <td><b>Conclusion</b></td>
-    <td>Discussion about outcomes which we get through this analysis for future decision making.</td>
+    <td><b>Explanation of QnA</b></td>
+    <td>Detailed explanation of QnA section.</td>
   </tr>
+     </tr>
+    <td><b>Analysis Problem Statement</b></td>
+    <td>Analyze the business problem statement to identify trend or pattern.</td>
+  </tr>
+  <tr>
+    <td><b>Business Conclusion</b></td>
+    <td>Discussion about the insights or patterns which help in making future - decisions.
+</td>
+  </tr>
+    
 </table>
                                                                                                                                                       
 
