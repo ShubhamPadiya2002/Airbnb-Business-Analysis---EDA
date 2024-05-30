@@ -46,7 +46,7 @@ we will solve various business problem statements and enhance business strategie
     <td>Some question and Answer related to Airbnb to getting comfortable with data.</td>
   </tr>
   <tr>
-    <td><b>Business Problem State</b></td>
+    <td><b>Business Problem Statement</b></td>
     <td>Some problem statement related to Airbnb to find data driven insights.
 </td>
   </tr>
@@ -83,6 +83,26 @@ we will solve various business problem statements and enhance business strategie
 • Examine the relationship between availability of listings and different cities.                                                                                                                                                 
 • What is the relationship of diversity of price in each city.                                                                                                                                       
 • Investigate the relationship between user reviews and room types across different cities.   
+
+<p align = "center">
+    <img src="https://github.com/ShubhamPadiya2002/Airbnb-Business-Analysis---EDA/blob/main/Screenshot%202024-05-29%20150245.png" alt="Example IMG" width="800" height="400">
+</p>
+
+<p align = "center">
+    <img src="https://github.com/ShubhamPadiya2002/Airbnb-Business-Analysis---EDA/blob/main/Screenshot%202024-05-29%20150412.png" alt="Example IMG" width="800" height="400">
+</p>
+
+<p align = "center">
+    <img src="https://github.com/ShubhamPadiya2002/Airbnb-Business-Analysis---EDA/blob/main/Screenshot%202024-05-29%20150614.png" alt="Example IMG" width="800" height="400">
+</p>
+
+<p align = "center">
+    <img src="https://github.com/ShubhamPadiya2002/Airbnb-Business-Analysis---EDA/blob/main/Screenshot%202024-05-29%20150649.png" alt="Example IMG" width="800" height="400">
+</p>
+
+<p align = "center">
+    <img src="https://github.com/ShubhamPadiya2002/Airbnb-Business-Analysis---EDA/blob/main/Screenshot%202024-05-29%20150721.png" alt="Example IMG" width="800" height="400">
+</p>
 
 
 ![Example Image](https://github.com/ShubhamPadiya2002/Airbnb-Business-Analysis---EDA/blob/main/Screenshot%202024-05-29%20150245.png)
