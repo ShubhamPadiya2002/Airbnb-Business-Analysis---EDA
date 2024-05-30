@@ -97,11 +97,11 @@ we will solve various business problem statements and enhance business strategie
 </p>
 
 <p align = "center">
-    <img src="https://github.com/ShubhamPadiya2002/Airbnb-Business-Analysis---EDA/blob/main/Screenshot%202024-05-29%20150649.png" alt="Example IMG" width="800" height="300">
+    <img src="https://github.com/ShubhamPadiya2002/Airbnb-Business-Analysis---EDA/blob/main/Screenshot%202024-05-29%20150649.png" alt="Example IMG" width="800" height="400">
 </p>
 
 <p align = "center">
-    <img src="https://github.com/ShubhamPadiya2002/Airbnb-Business-Analysis---EDA/blob/main/Screenshot%202024-05-29%20150721.png" alt="Example IMG" width="800" height="300">
+    <img src="https://github.com/ShubhamPadiya2002/Airbnb-Business-Analysis---EDA/blob/main/Screenshot%202024-05-29%20150721.png" alt="Example IMG" width="800" height="400">
 </p>
 
 
