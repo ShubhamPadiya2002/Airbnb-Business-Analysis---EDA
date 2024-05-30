@@ -1,3 +1,5 @@
+mkdir images
+
 # Airbnb Business - EDA
 
 <p align = "center">
