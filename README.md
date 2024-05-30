@@ -85,35 +85,24 @@ we will solve various business problem statements and enhance business strategie
 • Investigate the relationship between user reviews and room types across different cities.   
 
 <p align = "center">
-    <img src="https://github.com/ShubhamPadiya2002/Airbnb-Business-Analysis---EDA/blob/main/Screenshot%202024-05-29%20150245.png" alt="Example IMG" width="800" height="400">
+    <img src="https://github.com/ShubhamPadiya2002/Airbnb-Business-Analysis---EDA/blob/main/Screenshot%202024-05-29%20150245.png" alt="Example IMG" width="800" height="300">
 </p>
 
 <p align = "center">
-    <img src="https://github.com/ShubhamPadiya2002/Airbnb-Business-Analysis---EDA/blob/main/Screenshot%202024-05-29%20150412.png" alt="Example IMG" width="800" height="400">
+    <img src="https://github.com/ShubhamPadiya2002/Airbnb-Business-Analysis---EDA/blob/main/Screenshot%202024-05-29%20150412.png" alt="Example IMG" width="800" height="300">
 </p>
 
 <p align = "center">
-    <img src="https://github.com/ShubhamPadiya2002/Airbnb-Business-Analysis---EDA/blob/main/Screenshot%202024-05-29%20150614.png" alt="Example IMG" width="800" height="400">
+    <img src="https://github.com/ShubhamPadiya2002/Airbnb-Business-Analysis---EDA/blob/main/Screenshot%202024-05-29%20150614.png" alt="Example IMG" width="800" height="300">
 </p>
 
 <p align = "center">
-    <img src="https://github.com/ShubhamPadiya2002/Airbnb-Business-Analysis---EDA/blob/main/Screenshot%202024-05-29%20150649.png" alt="Example IMG" width="800" height="400">
+    <img src="https://github.com/ShubhamPadiya2002/Airbnb-Business-Analysis---EDA/blob/main/Screenshot%202024-05-29%20150649.png" alt="Example IMG" width="800" height="300">
 </p>
 
 <p align = "center">
-    <img src="https://github.com/ShubhamPadiya2002/Airbnb-Business-Analysis---EDA/blob/main/Screenshot%202024-05-29%20150721.png" alt="Example IMG" width="800" height="400">
+    <img src="https://github.com/ShubhamPadiya2002/Airbnb-Business-Analysis---EDA/blob/main/Screenshot%202024-05-29%20150721.png" alt="Example IMG" width="800" height="300">
 </p>
-
-
-![Example Image](https://github.com/ShubhamPadiya2002/Airbnb-Business-Analysis---EDA/blob/main/Screenshot%202024-05-29%20150245.png)
-
-![Example Image](https://github.com/ShubhamPadiya2002/Airbnb-Business-Analysis---EDA/blob/main/Screenshot%202024-05-29%20150412.png)
-
-![Example Image](https://github.com/ShubhamPadiya2002/Airbnb-Business-Analysis---EDA/blob/main/Screenshot%202024-05-29%20150614.png)
-
-![Example Image](https://github.com/ShubhamPadiya2002/Airbnb-Business-Analysis---EDA/blob/main/Screenshot%202024-05-29%20150649.png)
-
-![Example Image](https://github.com/ShubhamPadiya2002/Airbnb-Business-Analysis---EDA/blob/main/Screenshot%202024-05-29%20150721.png)
 
 
 ## Business Conclusion
