@@ -1,5 +1,3 @@
-mkdir images
-
 # Airbnb Business - EDA
 
 <p align = "center">
@@ -30,7 +28,9 @@ offers various value-added services to hosts, such as professional photography a
 or patterns.By performing end-to-end analysis, including some advanced analytics techniques such as **IQR techniques**, exploratory data analysis (EDA).Wtih the help of this project,
 we will solve various business problem statements and enhance business strategies & drive overall business growth in the Airbnb ecosystem.                                                                                                                                                        
 
-❑ **Tools & Libraries** – Advance Excel , Pivot table .
+❑ **Tools & Libraries**
+
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 
 ❑ **Content**  
 
